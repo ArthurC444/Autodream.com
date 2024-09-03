@@ -1,0 +1,84 @@
+body {
+    color: #FEFCFD; /* Cor dos textos no corpo */
+    background: #1C1E1C; /* Fundo do corpo */
+    margin: 0;
+    font-family: "Anton", sans-serif;
+    font-size: 24px;
+    border-bottom: 100px;
+}
+
+header {
+    background: #C20114;
+    border-bottom: 10px solid #6D7275; /* Linha da borda */
+    padding: 20px;
+    font-size: 40px;
+    color: #FEFCFD; /* Cor do título */ 
+}
+
+.chamada {
+    color: #FEFCFD;
+    background: #080C08;
+    padding: 80px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 5px #C20114;
+}
+
+.chamada > div {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.imagem {
+    height: 350px;
+    width: auto;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+.carros {
+    display: flex;
+    overflow-x: auto;
+    gap: 25px;
+}
+
+.categoria {
+    padding-left: 25px;
+    padding-right: 25px;
+    justify-content: center
+}
+
+.categoria {
+    padding: 0 25px;
+}
+
+.categoria .carros {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.categoria h2 {
+    text-align: center;
+}
+
+.carros img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.carros img:hover {
+    opacity: 1.0;
+    border: 5px solid #080C08
+}
