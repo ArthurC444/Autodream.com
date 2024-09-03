@@ -13,13 +13,4 @@ O **Autodream.com** é uma vitrine digital para carros esportivos que você semp
 - **HTML**: Estrutura do site
 - **CSS**: Estilo e layout
 
-## Como Utilizar
-
-1. Clone o repositório: `git clone <URL_DO_REPOSITORIO>`
-2. Navegue até o diretório do projeto: `cd autodream`
-3. Abra o arquivo `index.html` em seu navegador para visualizar o site.
-
-## Créditos
-
-Texto original e conceito por: **ArthurC444**  
-Melhorias no texto por: **ChatGPT**
+###### Texto original e conceito por: **ArthurC444**  | Melhorias no texto por: **ChatGPT**
